@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DisplayJokeModule</string>
+    <string name="this_is_totally_a_funny_joke">This is totally a Funny Joke!!!</string>
+</resources>
